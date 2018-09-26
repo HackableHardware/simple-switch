@@ -4,8 +4,8 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = none
+	remote = git@github.com:juvenal/simple-switch-firmware.git
 	branch = master
-	commit = b1c4ccc9922c90dd44c220dbc4df5ba892ee11f0
-	parent = fa14b4adc16983a3c46df41cdd5c976b70f0948f
+	commit = 2e2da0438bad86e85e5c1d86fbc908bc3334e9f3
+	parent = e1a3da1166133038de01199aa640d748e01c6f34
 	cmdver = 0.3.1
