@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:HackableHardware/simple-switch-hardware.git
+	branch = master
+	commit = 95829a9218245f0f1344b2e9b3d0c2eac464d4db
+	parent = 1d932c7ba4f7a3591771b9469061d79a8a26e9ad
+	cmdver = 0.3.1
